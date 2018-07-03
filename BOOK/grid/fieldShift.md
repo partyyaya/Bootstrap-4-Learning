@@ -17,5 +17,5 @@
     </div>
 </div>
 ```
-![暫時無法顯示](../img/offset.png)
 
+<img src="../img/offset.png" width="100%" height="100%">
