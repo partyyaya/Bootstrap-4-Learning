@@ -17,4 +17,4 @@
     </div>
 </div>
 ```
-<img src="../img/offset.png" width="700px" height="200px">
+<img src="../img/offset.png" width="300%" height="200%">
