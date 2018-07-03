@@ -34,4 +34,5 @@ div.col-sm-8, div.col-sm-4, div.col-sm-3, div.col-sm-6{
     text-align: center;
 }
 ```
+
 <img src="../img/rows.png" width="100%" height="100%">

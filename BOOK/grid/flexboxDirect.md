@@ -46,4 +46,5 @@ div.p-1, div.col{
     border: 1px solid #88a0a8;
 }
 ```
+
 <img src="../img/flex.png" width="100%" height="100%">
