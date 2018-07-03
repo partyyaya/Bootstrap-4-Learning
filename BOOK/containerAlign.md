@@ -1,12 +1,15 @@
 ## 容器對齊方式
 
 - 全部垂直對齊 : 將裡面的所有標籤或內容進行 上下位置 調整
+
 <img src="img/allVerticalAlign.png" width="100%" height="100%">
 
 - 個別垂直對齊 : 將自身標籤進行 上下位置 調整
+
 <img src="img/singleVerticalAlign.png" width="100%" height="100%">
 
 - 水平對齊 : 將裡面的所有標籤或內容進行 左右位置 調整
+
 <img src="img/LevelAlign.png" width="100%" height="100%">
 
 | 對齊方式 | 位置 | 用法 |
