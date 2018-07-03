@@ -1,9 +1,5 @@
 ## CSS 基礎知識
-<style type='text/css'>
-    td{
-        width:80px;
-    }
-</style>
+
 ### 一、關於CSS
 - Bootstrap是一套CSS框架，簡單了解CSS用法是必要的
 - CSS：Cascading Style Sheets，簡稱CSS，中文通常稱為層疊樣式表或串接樣式表
