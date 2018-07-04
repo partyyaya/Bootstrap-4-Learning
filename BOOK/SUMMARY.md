@@ -17,5 +17,5 @@
 * [不同的呈現(display)方式](display.md)
 * [容器對齊方式](containerAlign.md)
 * [文字(背景bgcolor)對齊與樣式](textChange.md)
-* [導覽列](navBar.md)
+* [導覽列應用](navBar.md)
 * [參考資源](resource.md)
