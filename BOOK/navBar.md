@@ -31,7 +31,7 @@
 - 可以看到下面範例,data-target指定要收縮div裡面的內容,所以id必須要一樣
 - 範例 :
 
-<img src="img/toggler.jpg" width="60%" height="100%">
+<img src="img/toggler.jpg" width="50%" height="70%">
 
 ```html
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -103,7 +103,7 @@
 - 在導覽列中放置各種表單控制元件，這是透過 .form-inline 水平放置的表單
 - 範例 :
 
-<img src="img/searchForm.jpg" width="60%" height="100%">
+<img src="img/searchForm.jpg" width="50%" height="70%">
 
 ```html
 <nav class="navbar navbar-light bg-light">
